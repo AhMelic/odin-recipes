@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+h1{
+    text-align:center;
+    border:solid 5px orangered;
+    border-radius:1cqw}
+
+.bread{text-align:center}
+*{
+    box-sizing:border-box;
+    border: 0.05em;font-family:oswald,'Times New Roman', Times, serif; }
+
+h1{border:solid 4px orangered;
+border-radius:1cqw;text-align:center}
+
+#lasagna{text-align:center;border:solid orangered; padding:5px;
+    border-width:10px;}
+.banana-bread{text-align:center;border:solid orangered; padding:5px;
+border-width:10px
+}
+.macncheese{text-align:center;border:solid orangered; padding:5px;
+    border-width:10px}
